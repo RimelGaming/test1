@@ -1,0 +1,6 @@
+{
+  "name": "ThreadCraft V2 — Premium T-Shirt Store & E-Commerce Platform",
+  "description": "Production-ready T-Shirt e-commerce website with variant-level inventory, manual mobile payments (bKash/Nagad/Rocket/COD), delivery zones, loyalty rewards, coupon discounts, and live admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
